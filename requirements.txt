@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+plotly
+lime
+shap
+vaderSentiment
+scikit-learn
